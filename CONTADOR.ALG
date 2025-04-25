@@ -1,4 +1,4 @@
-algoritmo "ESCOLA SANTA PACIÊNCIA"
+algoritmo "ESCOLA LAÍCE AGUIAR"
 var
    aluno,contador,nota,maior_nota:Inteiro
    nome,nome_maior: Caractere
