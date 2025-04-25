@@ -1,9 +1,9 @@
-algoritmo "ESCOLA SANTA PACI NCIA"
+algoritmo "ESCOLA SANTA PACI√äNCIA"
 var
    aluno,contador,nota,maior_nota:Inteiro
    nome,nome_maior: Caractere
 inicio
-   EscrevaL("ESCOLA SANTA PACI NCIA")
+   EscrevaL("ESCOLA LA√çCE AGUIAR")
    EscrevaL("----------------------")
    Escreva("Quantos alunos possui na turma? ")
    Leia(aluno)
